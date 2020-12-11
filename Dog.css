@@ -1,0 +1,64 @@
+.t1
+		{
+			padding-top: 2%;
+			padding-left: 40%;
+			font-size: 60px;
+			color:white;
+		}
+		.forms
+		{
+			padding-left: 40%;
+
+		}
+		#s1
+		{
+			background-color:black;
+			padding-top: 1%;
+			padding-bottom: 2%;
+			background-color: rgba(0,0,0,0.1);
+			margin-left: 0px;
+			margin-right: 0px;
+
+			
+			
+		}
+	
+		
+		.t2
+		{
+			height: 25px;
+			width:140px;
+			size:50px;
+			border-color: green;
+			border-style: blue;
+		}
+		.t3
+		{
+			color:green;
+			font-size: 15px;
+			margin-left: 15px;
+			size: 30px;
+		}
+		.t4
+		{
+			color:white;
+			font-size: 30px;
+		}
+		.t5
+		{
+			color:white;
+			font-size: 30px;
+		}
+		.container-fluid
+		{
+			background-image: url(dog.gif);
+			height:auto;
+			width:auto;
+			
+		}
+
+		#s1
+		{
+		background-color: rgba(0,0,0,.5);
+		height:600px;
+		}
